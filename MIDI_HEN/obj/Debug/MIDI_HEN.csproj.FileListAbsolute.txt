@@ -1,0 +1,17 @@
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\bin\Debug\MIDI_HEN.exe.config
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.csprojResolveAssemblyReference.cache
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.fileOpenForm.resources
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.midiBinaryHen.resources
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.FORM_main.resources
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.Properties.Resources.resources
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.csproj.GenerateResource.Cache
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\bin\Debug\MIDI_HEN.exe
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\bin\Debug\MIDI_HEN.pdb
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.exe
+c:\users\iwaya\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.pdb
+C:\Users\IWAYA\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\bin\Debug\Interop.WMPLib.dll
+C:\Users\IWAYA\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IWAYA\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\Interop.WMPLib.dll
+C:\Users\IWAYA\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\IWAYA\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.csproj.ResolveComReference.cache
+C:\Users\IWAYA\documents\visual studio 2013\Projects\MIDI_HEN\MIDI_HEN\obj\Debug\MIDI_HEN.WMPform.resources
